@@ -1,4 +1,4 @@
-# **formula1_analysis_dashboard** #
+# **Formula One Analysis Dashboard** #
 --------------
 
 **Presentation Link:** 
